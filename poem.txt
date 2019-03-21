@@ -1,0 +1,4 @@
+Roses are red,
+Violence is blue,
+Make up some words,
+And end with foo.
