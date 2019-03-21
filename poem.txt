@@ -1,4 +1,4 @@
-Roses are red,
-Violets are blue,
+Some roses are red,
+Most violets are blue,
 Spam and Lorem are both good,
 Still end with foo.
