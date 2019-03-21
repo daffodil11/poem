@@ -1,4 +1,4 @@
 Roses are red,
 Violets are blue,
-Make up some words,
-And end with foo.
+Spam and eggs,
+Still end with foo.
